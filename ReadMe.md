@@ -5,7 +5,7 @@
 ---
 
 # 👨🏻‍💻 About Me:
-💢 I am 24 years old. I am a FrontEnd and BackEnd programmer.<br>💢 I also had experience in programming Android applications But web development is my main job.<br>💢 I like to learn DevOps, Machine Learning, Data Science and play games.
+💢 I am a Software Engineer.<br>💢 I also had experience in programming Android applications But web development is my main job.<br>💢 I like to learn DevOps, Machine Learning, Data Science and play games.
 
 
 ## 🌐 Socials:
